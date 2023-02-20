@@ -1,0 +1,7 @@
+{
+    "consoleLog.invertPosition": true,
+    "emmet.optimizeStylesheetParsing": true,
+    "emmet.showExpandedAbbreviation": "always",
+    "emmet.useInlineCompletions": true,
+    "auto-close-tag.SublimeText3Mode": true
+}
